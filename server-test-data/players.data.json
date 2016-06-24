@@ -1,0 +1,52 @@
+[
+	{
+		"key": "ancient-guard",
+		"alias": "ancient-guard",
+		"rating": 2,
+		"currentMatch": {
+			"kills": 40,
+			"deaths": 7,
+			"assists": 10
+		}
+	},
+	{
+		"key": "vixxor",
+		"alias": "vixxor",
+		"rating": 1,
+		"currentMatch": {
+			"kills": 13,
+			"deaths": 7,
+			"assists": 10
+		}
+	},
+	{
+		"key": "chiko-hex",
+		"alias": "chiko hex",
+		"rating": 2,
+		"currentMatch": {
+			"kills": 25,
+			"deaths": 4,
+			"assists": 8
+		}
+	},
+	{
+		"key": "zeus-hawke",
+		"alias": "zeus hawke",
+		"rating": 3,
+		"currentMatch": {
+			"kills": 20,
+			"deaths": 2,
+			"assists": 13
+		}
+	},
+	{
+		"key": "samuche",
+		"alias": "samuche",
+		"rating": 5,
+		"currentMatch": {
+			"kills": 5,
+			"deaths": 13,
+			"assists": 28
+		}
+	}
+]

@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/48a5cfd0d77476d19531c42100d7d414fda4c73f/cachefactory/cachefactory.d.ts",
+    "raw": "registry:dt/cachefactory#1.4.0+20160521151552",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/48a5cfd0d77476d19531c42100d7d414fda4c73f/cachefactory/cachefactory.d.ts"
+  }
+}

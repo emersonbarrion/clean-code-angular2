@@ -1,0 +1,38 @@
+[
+	{
+		"id": 6,
+		"name": "Black Panther",
+		"imgSrc": "",
+		"popularity": 5
+	},
+	{
+		"id": 1,
+		"name": "Iron Man",
+		"imgSrc": "",
+		"popularity": 5
+	},
+	{
+		"id": 2,
+		"name": "Thor",
+		"imgSrc": "",
+		"popularity": 5
+	},
+	{
+		"id": 3,
+		"name": "Black Widow",
+		"imgSrc": "",
+		"popularity": 4
+	},
+	{
+		"id": 4,
+		"name": "CounteScarlet Witch",
+		"imgSrc": "",
+		"popularity": 2
+	},
+	{
+		"id": 5,
+		"name": "Vision",
+		"imgSrc": "",
+		"popularity": 3
+	}
+]

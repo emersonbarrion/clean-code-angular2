@@ -1,0 +1,14 @@
+{
+	"name": "obg.ng2.sdk-sample",
+	"main": "dist/typings/index.d.ts",
+	"globalDependencies": {
+		"cachefactory": "registry:dt/cachefactory#1.4.0+20160521151552",
+		"es6-shim": "registry:dt/es6-shim#0.31.2+20160317120654"
+	},
+	"globalDevDependencies": {
+		"jasmine": "registry:dt/jasmine#2.2.0+20160412134438"
+	},
+	"dependencies": {
+		"lodash": "registry:npm/lodash#4.0.0+20160416211519"
+	}
+}
